@@ -83,3 +83,5 @@ so clearing cookies may resolve this error message.
     play.filters.hosts.AllowedHostsFilter
 
 2017-08-24 15:30:30,395 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev)
+2017-08-24 15:35:42,038 [INFO] from play.core.server.AkkaHttpServer in pool-4-thread-2 - Stopping server...
+2017-08-24 15:35:42,086 [INFO] from application in pool-4-thread-2 - Shutting down connection pool.
